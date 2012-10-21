@@ -7,6 +7,7 @@ do
   for j in 3072 10240 20480
   do
     call_cmd_file  $i $j $result
+    echo >> $result
   done
 done
 

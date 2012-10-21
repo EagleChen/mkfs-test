@@ -18,4 +18,3 @@ DIFF3=$(( $END - $START ))
 echo $DIFF3
 
 echo $DIFF1, $DIFF2, $DIFF3 >> $3
-echo '\n' >> $3
