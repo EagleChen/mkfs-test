@@ -1,7 +1,9 @@
 #!/bin/bash
 set -x
-set -e
+#set -e
 result=result.csv
+mkdir -p mounts
+mkdir -p logs
 for i in 1 2 5 10
 do
   for j in 3072 10240 20480
