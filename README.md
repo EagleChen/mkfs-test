@@ -1,3 +1,5 @@
 How to use:
+------
 
-cd to this fold, then sudo ./para.sh
+1. cd to this folder
+2. sudo ./para.sh
